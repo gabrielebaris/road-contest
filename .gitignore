@@ -1,0 +1,12 @@
+# IDE folders
+.idea/
+.vscode/
+
+# Python stuff
+.venv/
+
+# W&B stuff
+wandb/
+
+# project-related files
+dataset
